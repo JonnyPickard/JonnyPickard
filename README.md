@@ -1,5 +1,3 @@
-## Hello there 👋
-
 <br/>
 
 <p align="center">
@@ -7,6 +5,8 @@
     <img src="./assets/logo-text.svg" alt="Jonny Pickard Github" width="320px" />
   </a>
 </p>
+
+## Hello there 👋
 
 <p align="justify">Hey, welcome. I see you've found my <b><a href="https://github.com/JonnyPickard">GitHub Profile</a></b>. I'm a <b>Frontend Developer with around 7 years experience</b>, mainly using <b>React</b> & <b>Typescript</b>.
 
