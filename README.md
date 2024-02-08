@@ -6,9 +6,9 @@
   </a>
 </p>
 
-## Hello there 👋
+<hr/>
 
-<p align="justify">Hey, welcome. I see you've found my <b><a href="https://github.com/JonnyPickard">GitHub Profile</a></b>. I'm a <b>Frontend Developer with around 7 years experience</b>, mainly using <b>React</b> & <b>Typescript</b>.
+<p align="justify">Hey, welcome 👋🏼. I see you've found my <b><a href="https://github.com/JonnyPickard">GitHub Profile</a></b>. I'm a <b>Frontend Developer with around 7 years experience</b>, mainly using <b>React</b> & <b>Typescript</b>.
 
 I love designing & implementing great user experiences, but my real passion & the reason I learnt to code was to make games. 👾 🎮
 
