@@ -12,7 +12,7 @@
 
 I love designing & implementing great user experiences, but my real passion & the reason I learnt to code was to make games. 👾 🎮
 
-I'm heavily motivated by ethical business practices & not just at a surface level, by companies looking to cash in on people's morals.
+I'm heavily motivated by non-superficial ethical business practices and business leaders who lead with their morals.
 
 Finally, I am a technological optimist, believing we can & should fix global & environmental issues with tech. Not to make individuals wealthier but to enable everyone to have a better quality of life. 🌱 🦁
 
