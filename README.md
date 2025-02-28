@@ -6,17 +6,18 @@
   </a>
 </p>
 
+<p align="center"> 👨‍💻 <b>Senior Frontend Developer</b> | React & Typescript Enthusiast | London, UK </p>
+
 <hr/>
 
-<p align="justify">Hey, welcome 👋🏼. I see you've found my <b><a href="https://github.com/JonnyPickard">GitHub Profile</a></b>. I'm a <b>Frontend Developer with around 7 years experience</b>, mainly using <b>React</b> & <b>Typescript</b>.
+<p align="justify">Hey, welcome 👋🏼! You've found my <b><a href="https://github.com/JonnyPickard">GitHub Profile</a></b>. 
 
-I love designing & implementing great user experiences, but my real passion & the reason I learnt to code was to make games. 👾 🎮
+With 8 years of experience, I began coding to build games, but my journey led me to crafting smooth, user-centric experiences. That said, games, graphics, and rendering are still close to my heart! 🎮✨
 
-I'm heavily motivated by non-superficial ethical business practices and business leaders who lead with their morals.
+I'm a tech optimist who believes in harnessing innovation to tackle global and environmental challenges, making the world a better place for everyone. 🌍🌱🦁
 
-Finally, I am a technological optimist, believing we can & should fix global & environmental issues with tech. Not to make individuals wealthier but to enable everyone to have a better quality of life. 🌱 🦁
+For some fun examples of my work, check out the pinned repositories or my storybook GitHub.io site linked below.</p>
 
-<br/>
 <p align="center">
   <a title="View Storybook Site" href="https://jonnypickard.github.io/" target="_blank"><img src="./assets/storybook-badge.svg" width="140px;" alt="Jonny Pickard Storybook Site">
   </a>
