@@ -10,7 +10,7 @@
 
 <hr/>
 
-<p align="justify">Hey, welcome 👋🏼! You've found my <b><a href="https://github.com/JonnyPickard">GitHub Profile</a></b>. 
+<p align="justify">Hey, welcome 👋🏼! You've found my <b><a href="https://github.com/JonnyPickard">GitHub Profile</a></b></p> 
 
 With 8 years of experience, I began coding to build games, but my journey led me to crafting smooth, user-centric experiences. That said, games, graphics, and rendering are still close to my heart! 🎮✨
 
